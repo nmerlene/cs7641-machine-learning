@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.egg-info
+*.ipynb_checkpoints
+*.pyc
+*.png
+tmp
+runs
+report.pdf
+__pycache__

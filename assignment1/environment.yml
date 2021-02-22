@@ -1,0 +1,21 @@
+name: ml
+channels:
+  - default
+  - conda-forge
+dependencies:
+- python=3.8
+- scikit-learn
+- mlxtend
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- pandoc
+- ipython
+- jupyter
+- jupyterlab
+- black
+- pip
+- jedi==0.17.2
+- pip:
+    -e .
